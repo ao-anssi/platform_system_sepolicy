@@ -166,6 +166,8 @@
     secure_element_device
     secure_element_service
     secure_element_tmpfs
+    security_conf_history_service
+    security_conf_history_reader_service
     sendbug_config_prop
     server_configurable_flags_data_file
     simpleperf_app_runner

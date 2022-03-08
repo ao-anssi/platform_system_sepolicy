@@ -92,6 +92,8 @@
     art_apex_dir
     rebootescrow_hal_prop
     securityfs
+    security_conf_history_service
+    security_conf_history_reader_service
     service_manager_service
     service_manager_vndservice
     simpleperf

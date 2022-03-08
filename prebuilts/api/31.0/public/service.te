@@ -242,6 +242,8 @@ type inputflinger_service, system_api_service, system_server_service, service_ma
 type wpantund_service, system_api_service, service_manager_type;
 type tethering_service, app_api_service, ephemeral_app_api_service, system_server_service, service_manager_type;
 type emergency_affordance_service, system_server_service, service_manager_type;
+type security_conf_history_service, system_api_service, system_server_service, service_manager_type;
+type security_conf_history_reader_service, app_api_service, system_server_service, service_manager_type;
 
 ###
 ### HAL Services
